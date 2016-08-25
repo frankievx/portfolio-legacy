@@ -961,7 +961,7 @@ img {
 
 .web-designer {
   position: absolute;
-  top: 750%;
+  top: 735%;
   width: 100%;
   height: 250%;
 }
@@ -1210,7 +1210,7 @@ img {
   position: absolute;
   top: 70%;
   width: 100%;
-  height: 110%;
+  height: 100%;
   margin-top: 50px;
   background-image: -webkit-linear-gradient(270deg, #113c3f, #eae4e1 29%);
   background-image: linear-gradient(180deg, #113c3f, #eae4e1 29%);
@@ -1218,7 +1218,7 @@ img {
 
 .web-designer-body {
   position: relative;
-  height: 60%;
+  height: 65%;
   margin-top: 0px;
   padding-top: 50px;
   background-image: -webkit-linear-gradient(270deg, #edecea, transparent 23%);
@@ -1228,7 +1228,7 @@ img {
 .work-mploy {
   position: relative;
   overflow: auto;
-  height: 1000px;
+  height: 900px;
 }
 
 .software-work-img {
@@ -1255,6 +1255,7 @@ img {
 }
 
 .work-text {
+  padding: 5px;
   color: #222;
 }
 
